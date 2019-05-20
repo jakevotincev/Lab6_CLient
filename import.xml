@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<world>
+    <animal>
+        <name>Jekal</name>
+        <height>164.0</height>
+        <weight>63.5</weight>
+        <wid>0.0</wid>
+        <color>YELLOW</color>
+        <class name="Sova">
+            <iq>9000.0</iq>
+        </class>
+    </animal>
+    <animal>
+        <name>S</name>
+        <height>0.0</height>
+        <weight>45.0</weight>
+        <width>0.0</width>
+        <color>PINK</color>
+        <class name="Pyatachok">
+            <iq>10.0</iq>
+        </class>
+    </animal>
+    <animal>
+        <name>jekal</name>
+        <height>0.0</height>
+        <weight>45.0</weight>
+        <width>0.0</width>
+        <color>null</color>
+        <class name="Sova">
+            <iq>25.0</iq>
+        </class>
+    </animal>
+    <animal>
+        <name>pooh</name>
+        <height>0.0</height>
+        <weight>10.0</weight>
+        <width>0.0</width>
+        <color>null</color>
+        <class name="WinniePooh">
+            <iq>0.0</iq>
+        </class>
+    </animal>
+    <animal>
+        <name>Жека</name>
+        <height>0.0</height>
+        <weight>0.0</weight>
+        <width>0.0</width>
+        <color>null</color>
+        <class name="Sova">
+            <iq>25.0</iq>
+        </class>
+    </animal>
+</world>
